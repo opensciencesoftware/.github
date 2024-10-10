@@ -1,11 +1,9 @@
-<p align="center">
-  <a href="https://openscience.software/">
+<a href="https://openscience.software/">
     <picture>
-        <source media="(prefers-color-scheme: dark)" width="350" srcset="https://raw.githubusercontent.com/opensciencesoftware/.github/main/profile/images/ossf-logo-secondary-dark.svg">
-        <img alt="Open Science Software Foundation Logo" width="350" src="https://raw.githubusercontent.com/opensciencesoftware/.github/main/profile/images/ossf-logo-secondary.svg">
+        <source media="(prefers-color-scheme: dark)" width="350" srcset="https://raw.githubusercontent.com/opensciencesoftware/.github/refs/heads/main/profile/images/ossf-logo-secondary-dark.svg">
+        <img alt="Open Science Software Foundation Logo" width="350" src="https://raw.githubusercontent.com/opensciencesoftware/.github/refs/heads/main/profile/images/ossf-logo-secondary.svg">
     </picture>
-  </a>
-</p>
+</a>
 
 # Open Science Software Foundation
 
